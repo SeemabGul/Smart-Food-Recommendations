@@ -1,0 +1,311 @@
+{
+  "Seemab": {
+    "preferences": {
+      "diet_type": "Vegetarian",
+      "max_calories": 500,
+      "allergies": [
+        "nut"
+      ]
+    },
+    "history": [
+      {
+        "timestamp": "2026-07-20 05:25",
+        "count": 3,
+        "foods": [
+          "Paneer Tikka",
+          "Greek Yogurt Parfait",
+          "Egg White Omelette"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 05:25",
+        "count": 15,
+        "foods": [
+          "Grilled Chicken Salad",
+          "Paneer Tikka",
+          "Vegan Buddha Bowl",
+          "Oatmeal with Fruits",
+          "Greek Yogurt Parfait",
+          "Quinoa Salad",
+          "Grilled Salmon",
+          "Lentil Soup",
+          "Egg White Omelette",
+          "Vegetable Stir Fry"
+        ]
+      }
+    ]
+  },
+  "admin": {
+    "preferences": {
+      "diet_type": "Non-Vegetarian",
+      "max_calories": 500,
+      "allergies": [
+        "egg"
+      ]
+    },
+    "history": [
+      {
+        "timestamp": "2026-07-20 10:46",
+        "count": 3,
+        "foods": [
+          "Grilled Chicken Salad",
+          "Grilled Salmon",
+          "Turkey Sandwich"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 10:21",
+        "count": 3,
+        "foods": [
+          "Grilled Chicken Salad",
+          "Grilled Salmon",
+          "Turkey Sandwich"
+        ]
+      }
+    ]
+  },
+  "Admin": {
+    "preferences": {
+      "diet_type": "Any",
+      "max_calories": 500,
+      "allergies": []
+    },
+    "history": []
+  },
+  "saharsyed": {
+    "preferences": {
+      "diet_type": "Non-Vegetarian",
+      "max_calories": 1500,
+      "allergies": [
+        "oil",
+        "rice"
+      ]
+    },
+    "history": [
+      {
+        "timestamp": "2026-07-20 11:16",
+        "count": 4,
+        "foods": [
+          "Grilled Chicken Salad",
+          "Grilled Salmon",
+          "Chicken Caesar Wrap",
+          "Turkey Sandwich"
+        ]
+      }
+    ]
+  },
+  "seemab": {
+    "preferences": {
+      "diet_type": "Vegan",
+      "max_calories": 2000,
+      "allergies": []
+    },
+    "history": [
+      {
+        "timestamp": "2026-07-20 12:33",
+        "count": 8,
+        "foods": [
+          "Vegan Buddha Bowl",
+          "Oatmeal with Fruits",
+          "Quinoa Salad",
+          "Lentil Soup",
+          "Vegetable Stir Fry",
+          "Tofu Stir Fry",
+          "Fruit Smoothie",
+          "Hummus with Veggies"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:33",
+        "count": 8,
+        "foods": [
+          "Vegan Buddha Bowl",
+          "Oatmeal with Fruits",
+          "Quinoa Salad",
+          "Lentil Soup",
+          "Vegetable Stir Fry",
+          "Tofu Stir Fry",
+          "Fruit Smoothie",
+          "Hummus with Veggies"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:33",
+        "count": 8,
+        "foods": [
+          "Vegan Buddha Bowl",
+          "Oatmeal with Fruits",
+          "Quinoa Salad",
+          "Lentil Soup",
+          "Vegetable Stir Fry",
+          "Tofu Stir Fry",
+          "Fruit Smoothie",
+          "Hummus with Veggies"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:28",
+        "count": 8,
+        "foods": [
+          "Vegan Buddha Bowl",
+          "Oatmeal with Fruits",
+          "Quinoa Salad",
+          "Lentil Soup",
+          "Vegetable Stir Fry",
+          "Tofu Stir Fry",
+          "Fruit Smoothie",
+          "Hummus with Veggies"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:28",
+        "count": 8,
+        "foods": [
+          "Vegan Buddha Bowl",
+          "Oatmeal with Fruits",
+          "Quinoa Salad",
+          "Lentil Soup",
+          "Vegetable Stir Fry",
+          "Tofu Stir Fry",
+          "Fruit Smoothie",
+          "Hummus with Veggies"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:28",
+        "count": 3,
+        "foods": [
+          "Paneer Tikka",
+          "Greek Yogurt Parfait",
+          "Egg White Omelette"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:28",
+        "count": 3,
+        "foods": [
+          "Paneer Tikka",
+          "Greek Yogurt Parfait",
+          "Egg White Omelette"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:28",
+        "count": 3,
+        "foods": [
+          "Paneer Tikka",
+          "Greek Yogurt Parfait",
+          "Egg White Omelette"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:28",
+        "count": 3,
+        "foods": [
+          "Paneer Tikka",
+          "Greek Yogurt Parfait",
+          "Egg White Omelette"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:28",
+        "count": 3,
+        "foods": [
+          "Paneer Tikka",
+          "Greek Yogurt Parfait",
+          "Egg White Omelette"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:28",
+        "count": 3,
+        "foods": [
+          "Paneer Tikka",
+          "Greek Yogurt Parfait",
+          "Egg White Omelette"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:28",
+        "count": 3,
+        "foods": [
+          "Paneer Tikka",
+          "Greek Yogurt Parfait",
+          "Egg White Omelette"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:28",
+        "count": 3,
+        "foods": [
+          "Paneer Tikka",
+          "Greek Yogurt Parfait",
+          "Egg White Omelette"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:28",
+        "count": 3,
+        "foods": [
+          "Paneer Tikka",
+          "Greek Yogurt Parfait",
+          "Egg White Omelette"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:28",
+        "count": 3,
+        "foods": [
+          "Paneer Tikka",
+          "Greek Yogurt Parfait",
+          "Egg White Omelette"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:28",
+        "count": 3,
+        "foods": [
+          "Paneer Tikka",
+          "Greek Yogurt Parfait",
+          "Egg White Omelette"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:27",
+        "count": 3,
+        "foods": [
+          "Paneer Tikka",
+          "Greek Yogurt Parfait",
+          "Egg White Omelette"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:27",
+        "count": 3,
+        "foods": [
+          "Paneer Tikka",
+          "Greek Yogurt Parfait",
+          "Egg White Omelette"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:27",
+        "count": 3,
+        "foods": [
+          "Paneer Tikka",
+          "Greek Yogurt Parfait",
+          "Egg White Omelette"
+        ]
+      },
+      {
+        "timestamp": "2026-07-20 12:27",
+        "count": 3,
+        "foods": [
+          "Paneer Tikka",
+          "Greek Yogurt Parfait",
+          "Egg White Omelette"
+        ]
+      }
+    ]
+  }
+}

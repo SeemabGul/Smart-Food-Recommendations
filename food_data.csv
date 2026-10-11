@@ -1,0 +1,16 @@
+food_name,category,calories,diet_type,ingredients
+Grilled Chicken Salad,Salad,350,Non-Vegetarian,chicken;lettuce;tomato;olive oil
+Paneer Tikka,Snack,300,Vegetarian,paneer;yogurt;dairy;spices
+Vegan Buddha Bowl,Bowl,420,Vegan,quinoa;chickpea;avocado;vegetables
+Oatmeal with Fruits,Breakfast,250,Vegan,oats;banana;berries;nuts
+Greek Yogurt Parfait,Breakfast,220,Vegetarian,yogurt;dairy;honey;granola
+Quinoa Salad,Salad,300,Vegan,quinoa;vegetables;lemon
+Grilled Salmon,Main,400,Non-Vegetarian,salmon;fish;lemon;herbs
+Lentil Soup,Soup,180,Vegan,lentils;vegetables;spices
+Egg White Omelette,Breakfast,150,Vegetarian,egg;vegetables
+Vegetable Stir Fry,Main,280,Vegan,vegetables;soy sauce;tofu;soy
+Chicken Caesar Wrap,Wrap,450,Non-Vegetarian,chicken;wheat;gluten;dairy;egg
+Tofu Stir Fry,Main,320,Vegan,tofu;soy;vegetables
+Fruit Smoothie,Drink,200,Vegan,banana;berries;milk substitute
+Turkey Sandwich,Sandwich,380,Non-Vegetarian,turkey;wheat;gluten;dairy
+Hummus with Veggies,Snack,150,Vegan,chickpea;tahini;vegetables
